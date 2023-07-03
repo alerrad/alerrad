@@ -5,13 +5,13 @@
 ## Bio 🍀
 18 years old, cyber security major student from Astana IT University. I enjoy studying new technologies and solving competitive programming problems. I am currently practicing in ethical hacking and solving tasks on codewars, codeforces and leetcode.
 
-
 ## Tech & skills 💼
- - __Languages__: Python, JS & TS, C++, SQL
+ - __Languages__: Python, JS & TS, C++, SQL, graphQL
  - __Databases__: MongoDB, MySQL, PostgreSQL
- - __Tools__: VScode, git, WSL, Xstate, Postman, Figma, Notion, NodeJS, vite
+ - __Tools__: VScode, git, WSL, Xstate, Postman, Figma, Notion, NodeJS, vite, Docker
 
 ## Social 🔗
- - Insta - [@alerradov](https://instagram.com/alerradov)(I don't use it quite often)
- - CW - [CodeWars profile](https://www.codewars.com/users/alerrad)
+ - Insta - [@aler2ad](https://www.instagram.com/aler2ad/)(I don't use it very often)
  - Telegram - [@alerrad](https://t.me/Alerrad)
+
+[![codewars](https://www.codewars.com/users/alerrad/badges/large)](https://www.codewars.com/users/alerrad)
