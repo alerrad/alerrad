@@ -13,5 +13,6 @@
 ## Social 🔗
  - Insta - [@aler2ad](https://www.instagram.com/aler2ad/)(I don't use it very often)
  - Telegram - [@alerrad](https://t.me/Alerrad)
+ - Leetcode - [alerrad](https://leetcode.com/alerrad/)
 
 [![codewars](https://www.codewars.com/users/alerrad/badges/large)](https://www.codewars.com/users/alerrad)
