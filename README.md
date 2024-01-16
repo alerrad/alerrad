@@ -7,8 +7,8 @@
 
 ## Tech & skills 💼
  - __Languages__: Python, JS & TS, C++, SQL, graphQL
- - __Databases__: MongoDB, MySQL, PostgreSQL
- - __Tools__: VScode, git, WSL, Xstate, Postman, Figma, Notion, NodeJS, vite, Docker
+ - __Databases__: MongoDB, MySQL, PostgreSQL, Redis
+ - __Tools__: VScode, git, React, Sveltekit, WSL, Xstate, Postman, Figma, Notion, NodeJS, vite, Docker
 
 ## Social 🔗
  - Insta - [@aler2ad](https://www.instagram.com/aler2ad/)(I don't use it very often)
